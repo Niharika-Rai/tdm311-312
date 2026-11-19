@@ -117,13 +117,3 @@ An **interactive Power BI dashboard** that turns three years of multi-ship engin
 ## Data Confidentiality
 
 This project used proprietary operational data that belongs to Carnival Cruise Line. **Raw data, the dashboard file and internal findings are not included in this repository** because of confidentiality agreements. This README describes the project's goals, methods and outcomes. The public poster and video are available at the [Data Mine symposium page](https://datamine.purdue.edu/carnival-cruise-line/).
-
-## Contact
-
-**Niharika Rai**: I'm actively looking for **data science, data analytics and business intelligence internships and full-time roles**.
-
-- GitHub: [@niharika-rai](https://github.com/niharika-rai)
-<!-- - LinkedIn: https://www.linkedin.com/in/your-profile -->
-<!-- - Email / Portfolio: add here -->
-
-If this project interests you, I'd be glad to talk about it in more detail.
