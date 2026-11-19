@@ -23,7 +23,6 @@
 - [Skills Demonstrated](#skills-demonstrated)
 - [About The Data Mine Corporate Partners Program](#about-the-data-mine-corporate-partners-program)
 - [Data Confidentiality](#data-confidentiality)
-- [Contact](#contact)
 
 ---
 
